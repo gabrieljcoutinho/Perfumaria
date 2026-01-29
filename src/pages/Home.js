@@ -10,7 +10,7 @@ const Home = () => {
           <main className="conteudoInicial">
               <div className="conteudo">
               <h1 className='tituloPrincipal'>Elevate Your Spirit with <br/> Victory Scented Fragrances</h1>
-              <p>Shop now and embrace the sweet small of victory with Local Face</p>
+              <p className='paragrafoHomeInicial'>Shop now and embrace the sweet small of victory with Local Face</p>
 
               <button className="btnDaHomeComrprar">Shop Now</button>
               </div>
