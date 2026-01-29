@@ -85,7 +85,7 @@ const Home = () => {
           <main className="nossosValores">
             <img src={imgNossosValores} className='imgNossosValores' alt="" />
               <div className="conteudoNossosValores">
-          <h2>Our Values</h2>
+          <h2 className='titutloNossoValores'>Our Values</h2>
 
           <p className="nossoValoresParagrafo">
              At Local Face, our perfume retail store is built on a foundation<br/>
