@@ -20,8 +20,7 @@
     overflow: hidden;
 }
 
-.teste {
-    font-size: 2rem;
-    font-weight: bold;
-    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+
+.subtituliMainBoasVindas {
+    color: #AB572D;
 }
