@@ -22,3 +22,7 @@ header ul li a {
 .ul-lista:hover {
     text-decoration: underline;
 }
+
+.imgListaIcones {
+    transform: rotate(10px);
+}
