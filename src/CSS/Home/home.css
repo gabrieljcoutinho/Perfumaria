@@ -5,7 +5,7 @@
 
 .conteudoInicial {
     padding-left: 20rem;
-    gap: 700px;
+    gap: 650px;
 }
 
 .conteudoInicial,
@@ -24,7 +24,8 @@
 }
 
 .tituloPrincipal {
-    font-size: 50px;
+    font-size: 60px;
+    transform: translateY(-100px);
 }
 
 .conteudo {
@@ -33,4 +34,14 @@
 
 .imgConteudoPrincipalHome {
     width: 600px;
+}
+
+.paragrafoHomeInicial {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    transform: translateY(-90px);
+}
+
+.paragrafoHomeInicial::first-letter {
+    font-size: 50px;
 }
