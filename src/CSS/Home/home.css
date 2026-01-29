@@ -45,3 +45,7 @@
 .paragrafoHomeInicial::first-letter {
     font-size: 50px;
 }
+
+.btnDaHomeComprar {
+    background: none;
+}
