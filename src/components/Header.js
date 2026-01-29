@@ -13,6 +13,7 @@ const Header = () => {
             <li><Link to="/" className="ul-lista">Home</Link></li>
             <li><Link to="/loja" className="ul-lista">Loja</Link></li>
             <li><Link to="/sobrenos" className="ul-lista">Sobre Nós</Link></li>
+            <li><Link to="/servicos" className="ul-lista">Serviços</Link></li>
       </ul>
       <img src={listaIconesHeader} alt="" />
     </header>
