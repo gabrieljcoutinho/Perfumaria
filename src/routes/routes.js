@@ -5,6 +5,7 @@ import Header from '../components/Header';
 import Home from '../pages/Home';
 import Loja from '../pages/Loja';
 import Sobrenos from '../pages/SobreNos';
+import Servicos from '../pages/Services';
 
 const AppRoutes = () => { // Mudamos o nome aqui
   return (
@@ -14,6 +15,7 @@ const AppRoutes = () => { // Mudamos o nome aqui
         <Route path="/" element={<Home />} />
         <Route path="/loja" element={<Loja />} />
         <Route path="/sobrenos" element={<Sobrenos />} />
+        <Route path="/servicos" element={<Servicos />} />
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </BrowserRouter>
