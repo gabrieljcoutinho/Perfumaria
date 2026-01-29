@@ -1,5 +1,5 @@
 import React from 'react'
-import "../CSS/Home/home.css"
+import "../CSS/Home/section.css"
 import "../CSS/Home/btnComprar.css"
 
 import imgHome from "../assets/imgs/imgHomeInicial.png"
@@ -65,6 +65,10 @@ const Home = () => {
 
           </main>
 
+
+        <main className="boasVindasAoSite">
+
+        </main>
 
     </div>
   )
