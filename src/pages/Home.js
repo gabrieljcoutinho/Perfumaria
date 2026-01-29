@@ -5,6 +5,7 @@ import "../CSS/Home/btnComprar.css"
 import "../CSS/Home/mainBoasVindas.css"
 
 import imgHome from "../assets/imgs/imgHomeInicial.png"
+import imgNossosValores from "../assets/imgs/imgNossosValores.png"
 
 const Home = () => {
   return (
@@ -80,7 +81,9 @@ const Home = () => {
 
         </main>
 
-
+      <main className="nossosValores">
+        <img src={imgNossosValores} alt="" />
+      </main>
 
 
 <br /><br /><br /><br />
