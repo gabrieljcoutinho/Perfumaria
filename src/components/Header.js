@@ -8,8 +8,8 @@ import listaIconesHeader from "../assets/imgs/Frame 2.png"
 const Header = () => {
   return (
     <header className="header container">
+            <img src={imgLogo} alt="" className="imgHeader" />
       <ul className="ulHeader">
-      <img src={imgLogo} alt="" />
             <li><Link to="/" className="ul-lista">Home</Link></li>
             <li><Link to="/loja" className="ul-lista">Loja</Link></li>
             <li><Link to="/sobrenos" className="ul-lista">Sobre Nós</Link></li>
