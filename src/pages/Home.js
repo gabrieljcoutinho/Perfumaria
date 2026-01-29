@@ -4,9 +4,11 @@ import "../CSS/Home/mainConteudoPrincipal.css"
 import "../CSS/Home/btnComprar.css"
 import "../CSS/Home/mainBoasVindas.css"
 import "../CSS/Home/nossosValores.css"
+import "../CSS/Home/amostraProdutosMain.css"
 
 import imgHome from "../assets/imgs/imgHomeInicial.png"
 import imgNossosValores from "../assets/imgs/imgNossosValores.png"
+import imgProdutos from "../assets/imgs/Frame 280.png"
 
 const Home = () => {
   return (
@@ -105,6 +107,12 @@ const Home = () => {
 
               </div>
 
+          </main>
+
+
+          <main className="mainAmostraProdutos">
+            <h1 className="tituloProdutos">Beste selling products</h1>
+        <img src={imgProdutos}  className='imgProdutos' alt="" />
           </main>
 
 
