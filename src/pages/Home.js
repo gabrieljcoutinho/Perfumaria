@@ -11,6 +11,8 @@ const Home = () => {
               <div className="conteudo">
               <h1>Elevate Your Spirit with <br/> Victory Scented Fragrances</h1>
               <p>Shop now and embrace the sweet small of victory with Local Face</p>
+
+              <button className="btnDaHomeComrprar">Shop Now</button>
               </div>
 
            <div className="imgPrincipalDiv">
