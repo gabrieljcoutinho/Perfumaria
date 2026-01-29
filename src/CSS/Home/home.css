@@ -3,7 +3,13 @@
     height: 300px;
 }
 
-.conteudoInicial, .tituloPrincipal{
+.conteudoInicial {
+    padding-left: 20rem;
+    gap: 700px;
+}
+
+.conteudoInicial,
+.tituloPrincipal {
     color: #fff;
     display: flex;
     /* Define a fonte e o peso ultra fino */
@@ -17,10 +23,14 @@
     letter-spacing: 0.5px;
 }
 
+.tituloPrincipal {
+    font-size: 50px;
+}
+
 .conteudo {
     padding-top: 30rem;
 }
 
 .imgConteudoPrincipalHome {
-    width: 500px;
+    width: 600px;
 }
