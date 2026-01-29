@@ -7,6 +7,8 @@ header {
     /* Garantia extra para a barra sumir */
     box-sizing: border-box;
     padding-right: 2rem;
+    position: fixed;
+    width: 100%;
 }
 
 .ulHeader {
@@ -16,7 +18,7 @@ header {
     list-style: none;
     width: 100%;
     padding: 0;
-    padding-right: 40rem;
+    padding-right: 36rem;
     gap: 50px;
 }
 
