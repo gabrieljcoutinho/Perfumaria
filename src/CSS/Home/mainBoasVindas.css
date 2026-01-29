@@ -22,7 +22,7 @@
 
 .subtituliMainBoasVindas {
     color: #E68D5D;
-    transform: translateY(-300px);
+    transform: translateY(-200px);
     font-size: 80px;
     font-family: 'Montserrat', sans-serif;
 
@@ -32,4 +32,13 @@
 
     /* Ajuste fino para não deixar as letras muito espalhadas */
     letter-spacing: -2px;
+}
+
+
+
+.textoMainBoasvindas {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 50px;
+    transform: translateY(-100px);
+    font-size: 20px;
 }
