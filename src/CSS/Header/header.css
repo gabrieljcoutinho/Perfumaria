@@ -10,6 +10,8 @@ header ul li a {
 
 .ulHeader {
     display: flex;
+    padding-left: 15rem;
+    gap: 20px;
 }
 
 .ul-lista {
