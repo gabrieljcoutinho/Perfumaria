@@ -2,13 +2,21 @@ header {
     padding-top: 1.5rem;
 }
 
-.ulHeader {
-    display: flex;
-}
-
-
 header ul li a {
     color: red;
     font-size: 20px;
     padding-left: 5rem;
+}
+
+.ulHeader {
+    display: flex;
+}
+
+.ul-lista {
+    color: #fff;
+    text-decoration: none;
+}
+
+.ul-lista:hover {
+    text-decoration: underline;
 }
