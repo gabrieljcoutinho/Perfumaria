@@ -5,4 +5,9 @@
 
 .conteudoInicial {
     color: #fff;
+    display: flex;
+}
+
+.imgConteudoPrincipalHome {
+    width: 500px;
 }
