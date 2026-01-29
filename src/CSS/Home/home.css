@@ -3,9 +3,22 @@
     height: 300px;
 }
 
-.conteudoInicial {
+.conteudoInicial, .tituloPrincipal{
     color: #fff;
     display: flex;
+    /* Define a fonte e o peso ultra fino */
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+
+    /* Opcional: melhora a renderização de fontes finas no Chrome/Safari */
+    -webkit-font-smoothing: antialiased;
+
+    /* Opcional: aumenta o espaçamento entre letras para parecer mais luxuoso */
+    letter-spacing: 0.5px;
+}
+
+.conteudo {
+    padding-top: 30rem;
 }
 
 .imgConteudoPrincipalHome {
