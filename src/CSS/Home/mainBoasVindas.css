@@ -20,7 +20,16 @@
     overflow: hidden;
 }
 
-
 .subtituliMainBoasVindas {
     color: #AB572D;
+    transform: translateY(-300px);
+    font-size: 80px;
+    font-family: 'Montserrat', sans-serif;
+
+    /* 300 é o "Light" - elegante mas legível */
+    /* Se ainda quiser um pouco mais, use 400 */
+    font-weight: 300;
+
+    /* Ajuste fino para não deixar as letras muito espalhadas */
+    letter-spacing: -2px;
 }
