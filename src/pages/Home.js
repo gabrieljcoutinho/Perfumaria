@@ -183,7 +183,7 @@ const Home = () => {
 
         <div className="mainSecaoPromocao">
 
-    <img src={img8} alt="" />
+    <img src={img8} alt="" className='imgPromocao' />
 
         </div>
 
