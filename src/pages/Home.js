@@ -11,6 +11,9 @@ import imgHome from "../assets/imgs/imgHomeInicial.png"
 import imgNossosValores from "../assets/imgs/imgNossosValores.png"
 import imgProdutos from "../assets/imgs/Frame 280.png"
 
+import img1 from "../assets/imgs/Group 14.png"
+import img2 from "../assets/imgs/wcwsc 1.png"
+
 const Home = () => {
   return (
     <div className='section'>
@@ -120,6 +123,19 @@ const Home = () => {
         <div className="mainColecoes">
 
             <h2 className="mainColecoesPerfumeTitulo">Our Colections</h2>
+
+            <div className="colecoesPerfumesLista">
+
+
+      <div className="perfumes">
+      <img src={img1} alt="" className='imgPerfume' />
+      </div>
+
+
+              <div className="perfumes">
+              <img src={img2} alt=""  className='imgPerfume2'/>
+              </div>
+            </div>
 
         </div>
 
