@@ -203,7 +203,7 @@ const Home = () => {
       </main>
 
           <main className="perfumesMaisRecentes">
-                  <h2>Latest Articles</h2>
+                  <h2 className='subTituloPerfumesRecente'>Latest Articles</h2>
 
                   <img src={img9} alt="" className='imgperfumeRecentes' />
           </main>
