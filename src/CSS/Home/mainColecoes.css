@@ -54,3 +54,10 @@
     transform: translate(530px, -50px);
     width: 890px;
 }
+
+.nomePerfume4Lista {
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+    transform: translate(450px, -180px);
+    color: #fff;
+}
