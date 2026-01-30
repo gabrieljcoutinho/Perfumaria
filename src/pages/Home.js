@@ -134,6 +134,7 @@ const Home = () => {
 
               <div className="perfumes">
               <img src={img2} alt=""  className='imgPerfume2'/>
+              <p className='nomeSegundoPerfume'>Travel Essentials Collections</p>
               </div>
             </div>
 
