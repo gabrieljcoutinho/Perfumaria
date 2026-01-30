@@ -25,3 +25,9 @@
     width: 1000px;
     transform: translate(-120px, 10px);
 }
+
+.nomeSegundoPerfume {
+    font-size: 40px;
+    transform: translate(-350px, -110px);
+    color: #fff;
+}
