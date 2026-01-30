@@ -5,7 +5,7 @@
 
 h4 {
     color: #AB572D;
-    font-size: 50px;
+    font-size: 80px;
     transform: translate(-1000px, 50px);
 }
 
@@ -15,3 +15,9 @@ h4 {
     cursor: pointer;
 }
 
+.seInscrever {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    transform: translate(-900px, 50px);
+    font-size: 30;
+}
