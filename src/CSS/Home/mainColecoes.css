@@ -1,6 +1,6 @@
 .mainColecoes {
     background-color: #fff;
-    height: 1500px;
+    height: 2000px;
 }
 
 .mainColecoesPerfumeTitulo {
@@ -31,4 +31,16 @@
     font-size: 40px;
     transform: translate(-350px, -110px);
     color: #fff;
+}
+
+.perfumesSecao2 {
+    display: flex;
+}
+
+.img3Perfumes {
+    width: 700px;
+}
+
+.img4Perfumes {
+    width: 794px;
 }
