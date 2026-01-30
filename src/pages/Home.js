@@ -192,7 +192,9 @@ const Home = () => {
         umbelievable prices during our exclusive Perfume Sale!</p>
         </div>
 
-        <button class="btn-brown">Know More</button>
+      <div className="movimentacaoBtnComprarPerfumePromocao">
+      <button class="btn-brown">Know More</button>
+      </div>
 
 <br />
     </div>
