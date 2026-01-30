@@ -205,7 +205,7 @@ const Home = () => {
           <main className="perfumesMaisRecentes">
                   <h2>Latest Articles</h2>
 
-                  <img src={img9} alt="" />
+                  <img src={img9} alt="" className='imgperfumeRecentes' />
           </main>
 
     </div>
