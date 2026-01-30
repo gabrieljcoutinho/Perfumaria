@@ -209,7 +209,7 @@ const Home = () => {
 
                   <img src={img9} alt="" className='imgperfumeRecentes' />
           </main>
-
+<br /><br /><br />
           <Footer />
 
     </div>
