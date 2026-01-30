@@ -15,3 +15,12 @@
     padding-left: 10em;
     justify-content: space-around;
 }
+
+.imgPerfume {
+    width: 600px;
+    transform: translate(-150px, 10px);
+}
+
+.imgPerfume2 {
+    width: 1000px;
+}
