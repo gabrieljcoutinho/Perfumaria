@@ -6,6 +6,7 @@ import "../CSS/Home/mainBoasVindas.css"
 import "../CSS/Home/nossosValores.css"
 import "../CSS/Home/amostraProdutosMain.css"
 import "../CSS/Home/mainColecoes.css"
+import "../CSS/Home/mainSecaoPromocao.css"
 
 import imgHome from "../assets/imgs/imgHomeInicial.png"
 import imgNossosValores from "../assets/imgs/imgNossosValores.png"
@@ -176,6 +177,11 @@ const Home = () => {
           </div>
           </div>
 
+        </div>
+
+
+        <div className="mainSecaoPromocao">
+sdf
         </div>
 
 <br />
