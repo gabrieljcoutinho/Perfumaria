@@ -7,6 +7,7 @@ import Sobrenos from '../pages/SobreNos';
 import Servicos from '../pages/Services';
 import Blog from '../pages/Blog';
 
+
 const AppRoutes = () => {
   return (
     /* O basename precisa ser EXATAMENTE o nome do seu repositório no GitHub */
@@ -24,7 +25,11 @@ const AppRoutes = () => {
         {/* Rota de segurança: se digitar algo errado, volta para a Home */}
         <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
+
+
     </BrowserRouter>
+
+
   );
 };
 
