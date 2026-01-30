@@ -16,10 +16,10 @@ const AppRoutes = () => {
         <Route path="/" element={<Home />} />
 
         {/* Descomente as linhas abaixo conforme for criando as páginas */}
-        {/* <Route path="/loja" element={<Loja />} /> */}
-        {/* <Route path="/sobrenos" element={<Sobrenos />} /> */}
-        {/* <Route path="/servicos" element={<Servicos />} /> */}
-        {/* <Route path="/blog" element={<Blog />} /> */}
+        <Route path="/loja" element={<Loja />} />
+        <Route path="/sobrenos" element={<Sobrenos />} />
+        <Route path="/servicos" element={<Servicos />} />
+        <Route path="/blog" element={<Blog />} />
 
         {/* Rota de segurança: se digitar algo errado, volta para a Home */}
         <Route path="*" element={<Navigate to="/" replace />} />
