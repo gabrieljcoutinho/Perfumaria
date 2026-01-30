@@ -67,6 +67,10 @@
     justify-content: space-around;
 }
 
+.perfumesSecao3 .perfumes p {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .img5 {
     width: 500px;
 }
