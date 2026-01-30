@@ -45,10 +45,12 @@
     width: 794px;
 }
 
-.img3Perfumes{
+.img3Perfumes {
     transform: translate(230px, -50px);
+    width: 800px;
 }
 
-.img4Perfumes{
+.img4Perfumes {
     transform: translate(530px, -50px);
+    width: 890px;
 }
