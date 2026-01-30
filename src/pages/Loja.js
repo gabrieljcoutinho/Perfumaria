@@ -1,10 +1,11 @@
 import React from 'react'
+import "../CSS/Shop/shop.css"
 
 const Loja = () => {
   return (
     <div>
 
-            Loja
+            <p>Home / Products</p>
     </div>
   )
 }
