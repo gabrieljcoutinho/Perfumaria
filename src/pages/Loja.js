@@ -5,7 +5,7 @@ const Loja = () => {
   return (
     <div>
 
-            <p>Home / Products</p>
+            <h1>Home / Products</h1>
     </div>
   )
 }
