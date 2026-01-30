@@ -7,3 +7,9 @@
 .imgperfumeRecentes {
     width: 1800px;
 }
+
+.subTituloPerfumesRecente {
+    color: #AB572D;
+    font-size: 50px;
+    padding-bottom: 2.5rem;
+}
