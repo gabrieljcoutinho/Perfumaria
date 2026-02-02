@@ -2,6 +2,7 @@ import React from 'react';
 import { BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Header from '../components/Header';
 import Home from '../pages/Home';
+import Shop from '../pages/Shop';
 
 const AppRoutes = () => {
   return (
@@ -10,6 +11,7 @@ const AppRoutes = () => {
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/shop" element={<Shop />} />
 
         {/* Rota de segurança: se digitar algo errado, volta para a Home */}
         <Route path="*" element={<Navigate to="/" replace />} />
