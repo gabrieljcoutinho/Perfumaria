@@ -1,3 +1,7 @@
 .tituloShop {
     color: #fff;
+    font-family: 'Montserrat', sans-serif;
+
+    /* Move 100px para a ESQUERDA e 100px para BAIXO */
+    transform: translate(-100px, 100px);
 }
