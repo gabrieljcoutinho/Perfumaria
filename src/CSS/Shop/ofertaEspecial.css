@@ -16,6 +16,7 @@
     padding-left: 100rem;
     font-size: 26px;
     transform: translate(-800px, 10px);
+    font-family: 'Montserrat';
 }
 
 .imgPromocaoLoja {
@@ -25,10 +26,19 @@
 .paragrafoConteudoOferta {
     font-size: 20px;
     padding-left: 15rem;
-    transform: translate(-15px, 300px)
+    transform: translate(-15px, 300px);
+        font-family: 'Montserrat';
+}
+
+.subTituloSubTitulo {
+    color: aqua;
+    font-size: 30px;
+    transform: translate(-220px, 250px);
+    font-family: 'Montserrat';
 }
 
 .subTitulodoTitulo {
     transform: translate(-250px, 250px);
     font-size: 50px;
+    font-family: 'Montserrat';
 }
