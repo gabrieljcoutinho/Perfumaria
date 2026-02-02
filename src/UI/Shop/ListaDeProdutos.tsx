@@ -21,7 +21,73 @@ type Props = {}
 const ListaDeProdutos = (props: Props) => {
   return (
     <div className='listaDeProdutos'>
-                    
+
+                <div className="flexBox">
+
+                    <div className="divConteudo">
+
+                    </div>
+
+                    <div className="divConteudo">
+
+                        </div>
+
+                        <div className="divConteudo">
+
+                        </div>
+
+                        <div className="divConteudo">
+
+                        </div>
+
+
+                </div>
+
+
+
+                <div className="flexBox">
+
+<div className="divConteudo">
+
+</div>
+
+<div className="divConteudo">
+
+    </div>
+
+    <div className="divConteudo">
+
+    </div>
+
+    <div className="divConteudo">
+
+    </div>
+
+
+</div>
+
+
+<div className="flexBox">
+
+<div className="divConteudo">
+
+</div>
+
+<div className="divConteudo">
+
+    </div>
+
+    <div className="divConteudo">
+
+    </div>
+
+    <div className="divConteudo">
+
+    </div>
+
+
+</div>
+
     </div>
   )
 }
