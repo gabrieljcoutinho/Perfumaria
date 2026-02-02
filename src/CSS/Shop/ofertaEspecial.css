@@ -12,6 +12,12 @@
     font-style: oblique;
 }
 
+.subTituloPromocao {
+    padding-left: 100rem;
+    font-size: 26px;
+    transform: translate(-800px, 10px);
+}
+
 .imgPromocaoLoja {
     transform: translate(-675px, -70px);
 }
