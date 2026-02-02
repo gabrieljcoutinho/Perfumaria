@@ -20,7 +20,7 @@ type Props = {}
 
 const ListaDeProdutos = (props: Props) => {
   return (
-    <div>
+    <div className='listaDeProdutos'>
 
 
 <img src={img1} alt="" />
