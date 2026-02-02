@@ -15,7 +15,7 @@ const OfertaEspecial = (props: Props) => {
            <div className="imgPromocao">
             <img src={imgPromocaoPerfume} alt="" className='imgPromocaoLoja' />
            </div>
-        l</div>
+        </div>
   )
 }
 
