@@ -1,9 +1,12 @@
 .divOfertaEspecial {
-
     background-color: #000;
     height: 900px;
     color: #fff;
     font-family: 'Montserrat';
+}
+
+.tituloSecaoPrincipal{
+    transform: translate(-30px, -70px);
 }
 
 .imgPromocaoLoja {
