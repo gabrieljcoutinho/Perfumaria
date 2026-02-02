@@ -9,3 +9,7 @@
 .imgPromocaoLoja {
     transform: translate(-675px, 70px);
 }
+
+.paragrafoConteudoOferta {
+    font-size: 20px;
+}
