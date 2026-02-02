@@ -9,28 +9,22 @@ import "../CSS/Home/mainColecoes.css"
 import "../CSS/Home/mainSecaoPromocao.css"
 import "../CSS/Home/mainPerfumesMaisRecentes.css"
 
-import Footer from "../components/Footer"
 
 import imgHome from "../assets/imgs/imgHomeInicial.png"
 import imgNossosValores from "../assets/imgs/imgNossosValores.png"
 import imgProdutos from "../assets/imgs/Frame 280.png"
-
 import img1 from "../assets/imgs/Group 14.png"
 import img2 from "../assets/imgs/wcwsc 1.png"
-
 import img3 from "../assets/imgs/Group 17.png"
 import img4 from "../assets/imgs/Nele_he_perfume_You_or_some_one_like_you_of_Etat_Libre_dOrange__daa24d6d-5e28-424b-93f9-0fbcc7e774fd 1.png"
-
 import img5 from "../assets/imgs/Old fashion black & gold color perfume bottles set 1.png"
 import img6 from "../assets/imgs/kuroswan972_I_want_to_create_a_cube_stunning_photo_of_the_Mysti_14ae08f2-16bb-4e85-b781-bf371c99faf1 2.png"
 import img7 from "../assets/imgs/NOUILLEPASCUITE_Perfum_modern_shoot_for_vogue_rectangular_shot__036e3104-df47-445e-956e-04f1978997e2 1.png"
-
-
 import img8 from "../assets/imgs/fundoPromocao.png"
-
-
 import img9 from "../assets/imgs/imgPerfumesRecentes.png"
 
+
+import Footer from "../components/Footer"
 
 const Home = () => {
   return (
