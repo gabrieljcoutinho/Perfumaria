@@ -5,8 +5,11 @@
     font-family: 'Montserrat';
 }
 
-.tituloSecaoPrincipal{
+.tituloSecaoPrincipal {
     transform: translate(-30px, -70px);
+    font-size: 40px;
+    font-family: 'Montserrat';
+    font-style: oblique;
 }
 
 .imgPromocaoLoja {
