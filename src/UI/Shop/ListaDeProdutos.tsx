@@ -23,7 +23,8 @@ const ListaDeProdutos = (props: Props) => {
     <div className='listaDeProdutos'>
 
 
-<img src={img1} alt="" />
+            <div className="flexbox">
+            <img src={img1} alt="" />
 
 <img src={img2} alt="" />
 
@@ -46,6 +47,7 @@ const ListaDeProdutos = (props: Props) => {
 <img src={img11} alt="" />
 
 <img src={img12} alt="" />
+            </div>
 
     </div>
   )
