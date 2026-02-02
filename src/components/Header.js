@@ -2,8 +2,8 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../CSS/Header/header.css";
 
-import imgLogo from "../assets/imgs/logoPage.png"
-import listaIconesHeader from "../assets/imgs/Frame 2.png"
+import imgLogo from "../assets/imgHome/logoPage.png"
+import listaIconesHeader from "../assets/imgHome/Frame 2.png"
 
 const Header = () => {
   return (
