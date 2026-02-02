@@ -11,7 +11,7 @@ import "../CSS/Home/mainPerfumesMaisRecentes.css"
 
 
 
-import imgProdutos from "../assets/imgs/Frame 280.png"
+
 import img1 from "../assets/imgs/Group 14.png"
 import img2 from "../assets/imgs/wcwsc 1.png"
 import img3 from "../assets/imgs/Group 17.png"
@@ -26,6 +26,7 @@ import img9 from "../assets/imgs/imgPerfumesRecentes.png"
 import ConteudoInicial from "../UI/Home/ConteudoInicial"
 import BoasVindas from "../UI/Home/BoasVindas"
 import NossosValores from "../UI/Home/NossosValores"
+import AmostraProdutos from "../UI/Home/AmostraProdutos"
 
 import Footer from "../components/Footer"
 
@@ -39,11 +40,8 @@ const Home = () => {
 
           <NossosValores />
 
+          <AmostraProdutos />
 
-          <main className="mainAmostraProdutos">
-            <h1 className="tituloProdutos">Beste selling products</h1>
-        <img src={imgProdutos}  className='imgProdutos' alt="" />
-          </main>
 
 
         <main className="mainColecoes">
