@@ -19,7 +19,7 @@
 }
 
 .imgPromocaoLoja {
-    transform: translate(-675px, -70px);
+    transform: translate(-675px, -150px);
 }
 
 .paragrafoConteudoOferta {
@@ -27,6 +27,7 @@
     padding-left: 15rem;
 }
 
-.subTitulodoTitulo{
-    transform: translate(-175px, -50px);
+.subTitulodoTitulo {
+    transform: translate(-165px, 150px);
+    font-size: 50px;
 }
