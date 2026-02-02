@@ -50,11 +50,12 @@ const Home = () => {
     <img src={img8} alt="" className='imgPromocao' />
         <p className="paragrafoPerfumeEmPromocao">Discover and exquisite collections of premium perfumes at <br/>
         umbelievable prices during our exclusive Perfume Sale!</p>
-        </div>
-
-      <main className="movimentacaoBtnComprarPerfumePromocao">
+        <main className="movimentacaoBtnComprarPerfumePromocao">
       <button class="btn-brown">Know More</button>
       </main>
+        </div>
+
+
 
           <main className="perfumesMaisRecentes">
                   <h2 className='subTituloPerfumesRecente'>Latest Articles</h2>
