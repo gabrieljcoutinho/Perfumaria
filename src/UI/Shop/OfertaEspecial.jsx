@@ -7,7 +7,9 @@ type Props = {}
 
 const OfertaEspecial = (props: Props) => {
   return (
-    <div>OfertaEspecial</div>
+    <div className='divOfertaEspecial'>
+        OfertaEspecia
+        l</div>
   )
 }
 
