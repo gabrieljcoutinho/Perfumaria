@@ -1,44 +1,75 @@
 .Footer {
     background-color: #1D1D1D;
-    height: 600px;
+    min-height: 600px;
+    padding: 60px 10%;
+    /* Espaçamento interno para não grudar nas bordas */
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
 }
 
-ul li a {
-    list-style-type: none;
-}
-
+/* Título Principal */
 h4 {
     color: #AB572D;
     font-size: 80px;
-    transform: translate(-1000px, 50px);
+    margin-bottom: 20px;
 }
 
-.input-group {
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-}
-
+/* Newsletter */
 .seInscrever {
-    color: #fff;
-    font-family: 'Montserrat', sans-serif;
-    transform: translate(-900px, 50px);
-    font-size: 30;
+    font-size: 30px;
+    margin-bottom: 5px;
 }
 
 .subTexto {
-    color: #fff;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 30;
-    transform: translate(-700px, 50px);
+    font-size: 18px;
+    opacity: 0.8;
+    margin-bottom: 40px;
 }
 
+/* Container das Listas */
 .todasAsListas {
     display: flex;
-    padding-left: 80rem;
-    color: #fff;
-    font-size: 30px;
+    justify-content: flex-start;
+    /* Alinha o bloco de listas à esquerda */
     gap: 100px;
-    transform: translate(00px, -200px);
-    font-family: 'Montserrat', sans-serif;
+    /* Espaço entre as colunas */
+    margin-top: 40px;
+}
+
+/* Estilo de cada coluna de lista */
+.listas {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    /* Garante que tudo comece na mesma linha à esquerda */
+}
+
+.listas h5 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #AB572D;
+}
+
+/* REMOVENDO AS BOLINHAS E ALINHANDO */
+.listas ul {
+    list-style-type: none;
+    /* Remove a bolinha */
+    padding: 0;
+    /* Remove o recuo da esquerda */
+    margin: 0;
+    /* Remove margens padrão */
+    text-align: left;
+    /* Alinha o texto à esquerda */
+}
+
+.listas li {
+    font-size: 18px;
+    margin-bottom: 10px;
+    /* Espaço entre um item e outro */
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+.listas li:hover {
+    color: #AB572D;
 }
