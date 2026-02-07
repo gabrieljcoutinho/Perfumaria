@@ -40,7 +40,7 @@ const Footer = () => {
                   <li>Help center</li>
                   <li>Terms & Conditions</li>
                   <li>Privacy policy</li>
-                  <li></li>
+                  <li>Returns & refund</li>
                   <li></li>
                 <ul></ul>
               </div></div>
