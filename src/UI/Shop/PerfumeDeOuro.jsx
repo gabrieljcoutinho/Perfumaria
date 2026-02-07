@@ -16,6 +16,7 @@ const PerfumeDeOuro = (props: Props) => {
                   <h1>Limited Time Offer: 25% OFF <br/> on Golden Algel Perfume</h1>
                   <h2 >Golden Algel</h2>
                   <p className="paragrafoDeOuro">Unleash Your Divine Glow</p>
+                  <p>Indulge in the divine allure of Golden Angel, a fragrance that embodies celestial elegance and radiance.</p>
               </div>
           </main>
 
