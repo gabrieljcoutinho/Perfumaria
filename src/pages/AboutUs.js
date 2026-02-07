@@ -11,7 +11,6 @@ const AboutUs = () => {
         <Aboutus />
         <OurStory />
         <AmostraDeBebida />
-        <br /><br />
     </div>
   )
 }
