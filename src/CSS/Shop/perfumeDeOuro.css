@@ -31,4 +31,5 @@
 .paragrafoDeOuro {
     color: #EFA94B;
     font-family: 'Montserrat';
+    transform: translate(-400px, 300px);
 }
