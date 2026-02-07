@@ -37,6 +37,7 @@
 
 .paragrafoDescricao {
     color: #fff;
-    font-size: 24px;
+    font-size: 21px;
     font-family: 'Montserrat';
+    transform: translate(-100px, 500px);
 }
