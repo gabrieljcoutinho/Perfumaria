@@ -11,4 +11,5 @@ h2 {
 .paragrafoOurStory {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
+    transform: translate(-100px, 150px);
 }
