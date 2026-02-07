@@ -1,10 +1,10 @@
 import React from 'react'
-import marcacaoDepagina from "../../src/UI/AboutUs/MarcacaoDePagina"
+import MarcacaoDepagina from "../../src/UI/AboutUs/MarcacaoDePagina"
 
 const AboutUs = () => {
   return (
     <div>
-
+        <MarcacaoDepagina />
     </div>
   )
 }
