@@ -5,7 +5,7 @@ type Props = {}
 
 const AmostraDeBebida = (props: Props) => {
   return (
-    <div>AmostraDeBebida</div>
+    <div className=' amostra de bebida'>AmostraDeBebida</div>
   )
 }
 
