@@ -48,6 +48,10 @@ header ul li a {
     text-decoration: underline;
 }
 
+.ul-lista:active {
+    color: red;
+}
+
 .imgHeader {
     padding-left: 5rem;
 }
