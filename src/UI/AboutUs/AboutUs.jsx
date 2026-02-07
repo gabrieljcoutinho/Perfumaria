@@ -5,7 +5,7 @@ type Props = {}
 
 const AboutUs = (props: Props) => {
   return (
-    <div>AboutUs</div>
+    <div className='aboutUsSection'>AboutUs</div>
   )
 }
 
