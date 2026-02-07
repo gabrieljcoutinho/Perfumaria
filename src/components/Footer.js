@@ -14,18 +14,18 @@ const Footer = () => {
 
 
              <div className="todasAsListas">
-             <div className="listas">
+             <div className="listas  categoria">
                   <h5>Categorias</h5>
                 <ul></ul>
               </div>
 
 
-              <div className="listas">
+              <div className="listas  shopping">
                   <h5>Shopping</h5>
                 <ul></ul>
               </div>
 
-              <div className="listas">
+              <div className="listas  custumer">
                   <h5>Customer care</h5>
                 <ul></ul>
               </div></div>
