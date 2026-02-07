@@ -6,6 +6,7 @@ const AboutUs = () => {
   return (
     <div>
         <MarcacaoDepagina />
+        <Aboutus />
     </div>
   )
 }
