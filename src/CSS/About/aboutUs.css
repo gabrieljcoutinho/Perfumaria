@@ -36,10 +36,5 @@
 
 
 .aboutUsSection h1 {
-    position: relative;
     z-index: 2;
-    color: #fff;
-    font-size: 3rem;
-    transform: translate(11px, -400px);
-    /* Sem aspas agora */
 }
