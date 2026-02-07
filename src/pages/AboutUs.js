@@ -8,6 +8,7 @@ const AboutUs = () => {
     <div>
         <MarcacaoDepagina />
         <Aboutus />
+        <OurStory />
     </div>
   )
 }
