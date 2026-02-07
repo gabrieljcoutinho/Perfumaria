@@ -10,9 +10,9 @@ const PerfumeDeOuro = (props: Props) => {
     <div className='mainPerfumeDeOuro'>
 
 
-          <main className="imgPerfumeDeOuro">
-          <img src={imgDeOuro} alt="" />
-              <div className="conteudoDivPerfumeDeOuro">
+          <main className="conteudoDivPerfumeDeOuro">
+          <img src={imgDeOuro} alt=""  className='imgPerfumeDeOuro'/>
+              <div className="textoConteudoPerfumeDeouro">
                   <h1>Limited Time Offer: 25% OFF on Golden Algel Perfume</h1>
 
               </div>
