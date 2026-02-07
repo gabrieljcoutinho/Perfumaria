@@ -16,7 +16,7 @@ const Footer = () => {
              <div className="todasAsListas">
              <div className="listas  categoria">
                   <h5>Categorias</h5>
-                <ul></ul>
+                <ul className='listaDasCategorias'></ul>
               </div>
 
 
