@@ -5,7 +5,7 @@ const MarcacaoDePagina = () => {
   return (
     <div>
 
-      <h3 className='tituloShop'>Shop / Products</h3>
+      <h3 className='tituloShop'>Home / Products</h3>
     </div>
   );
 };
