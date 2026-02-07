@@ -8,9 +8,20 @@ type Props = {}
 const PerfumeDeOuro = (props: Props) => {
   return (
     <div className='mainPerfumeDeOuro'>
-            <img src={imgDeOuro} alt="" />
+
+
+          <main className="imgPerfumeDeOuro">
+          <img src={imgDeOuro} alt="" />
+              <div className="conteudoDivPerfumeDeOuro">
+                  <h1>Limited Time Offer: 25% OFF on Golden Algel Perfume</h1>
+
+              </div>
+          </main>
+
+
 
     </div>
+
   )
 }
 
