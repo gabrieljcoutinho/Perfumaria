@@ -29,7 +29,6 @@
     background-position: center;
     opacity: 0.3;
     z-index: 1;
-    animation: moveBackground 15s infinite alternate ease-in-out;
 }
 
 /* Container para garantir que o texto fique acima do background animado */
@@ -55,14 +54,4 @@
     /* Aumentado de 10px para 18px para ser legível */
     line-height: 1.6;
     margin: 0;
-}
-
-@keyframes moveBackground {
-    from {
-        transform: scale(1);
-    }
-
-    to {
-        transform: scale(1.1) translate(20px, 20px);
-    }
 }
