@@ -21,7 +21,7 @@
     color: #fff;
     font-size: 50px;
     font-family: 'Montserrat';
-    transform: translate(-400px, 300px);
+    transform: translate(-400px, 350px);
 }
 
 .imgPerfumeDeOuro {
@@ -31,6 +31,6 @@
 .paragrafoDeOuro {
     color: #EFA94B;
     font-family: 'Montserrat';
-    transform: translate(-400px, 300px);
+    transform: translate(-250px, 300px);
     font-size: 50px;
 }
