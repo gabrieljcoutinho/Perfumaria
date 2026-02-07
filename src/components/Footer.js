@@ -12,6 +12,25 @@ const Footer = () => {
 
         <p className='subTexto'>Receive update on New Arrivals and  Special Promotions</p>
 
+
+             <div className="todasAsListas">
+             <div className="listas">
+                  <h5>Categorias</h5>
+                <ul></ul>
+              </div>
+
+
+              <div className="listas">
+                  <h5>Shopping</h5>
+                <ul></ul>
+              </div>
+
+              <div className="listas">
+                  <h5>Customer care</h5>
+                <ul></ul>
+              </div></div>
+
+
         </div>
   )
 }
