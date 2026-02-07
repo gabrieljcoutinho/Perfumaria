@@ -2,49 +2,67 @@
     position: relative;
     height: 900px;
     width: 100%;
-    transform: translate(0px, 115px);
+    margin-top: 115px;
+    /* Substitui o transform: translate */
     overflow: hidden;
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #000;
+    color: #fff;
+    text-align: center;
 }
 
 .aboutUsSection::before {
     content: "";
     position: absolute;
-    /* Importante: Deixamos o fundo um pouco maior para não aparecer borda branca ao mover */
     top: -50px;
     left: -50px;
     right: -50px;
     bottom: -50px;
-
     background-image:
         url("../../assets/imgAboutUs/DR.D_candid_shot 1.png"),
         url("../../assets/imgAboutUs/segunda camada.png"),
         url("../../assets/imgAboutUs/terceriacamada.png");
-
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
     opacity: 0.3;
     z-index: 1;
-
-    /* Animação de posição porra! */
     animation: moveBackground 15s infinite alternate ease-in-out;
 }
 
-
-
-.aboutUsSection h1{
-    transform: translate(-10px, -400px);
-    font-size: 50px;
-    color: #fff;
+/* Container para garantir que o texto fique acima do background animado */
+.contentContainer {
+    position: relative;
     z-index: 2;
+    max-width: 800px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    /* Espaçamento entre título e parágrafo */
 }
 
-.aboutUsSection p{
-    transform: translate(-10px, -400px);
-    font-size: 10px;
-    color: #fff;
-    z-index: 2;
+.titulo {
+    font-size: 60px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.paragrafo {
+    font-size: 18px;
+    /* Aumentado de 10px para 18px para ser legível */
+    line-height: 1.6;
+    margin: 0;
+}
+
+@keyframes moveBackground {
+    from {
+        transform: scale(1);
+    }
+
+    to {
+        transform: scale(1.1) translate(20px, 20px);
+    }
 }
