@@ -1,6 +1,5 @@
 .aboutUsSection {
     position: relative;
-    /* Necessário para posicionar o fundo */
     height: 900px;
     width: 100%;
     transform: translate(0px, 115px);
@@ -9,37 +8,38 @@
     align-items: center;
     justify-content: center;
     background-color: #000;
-    /* Cor de fundo caso as imagens falhem */
 }
 
 .aboutUsSection::before {
     content: "";
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
+    /* Importante: Deixamos o fundo um pouco maior para não aparecer borda branca ao mover */
+    top: -50px;
+    left: -50px;
+    right: -50px;
+    bottom: -50px;
 
-    /* Suas 3 imagens empilhadas aqui */
     background-image:
         url("../../assets/imgAboutUs/DR.D_candid_shot 1.png"),
         url("../../assets/imgAboutUs/segunda camada.png"),
         url("../../assets/imgAboutUs/terceriacamada.png");
 
     background-size: cover;
-    background-position: center;
     background-repeat: no-repeat;
-
-    /* A OPACIDADE SÓ DO FUNDO AQUI */
     opacity: 0.3;
     z-index: 1;
+
+    /* Animação de posição porra! */
+    animation: moveBackground 15s infinite alternate ease-in-out;
 }
+
+
 
 .aboutUsSection h1 {
     position: relative;
     z-index: 2;
-    /* Garante que o texto fique acima do fundo */
     color: #fff;
     font-size: 3rem;
-    transform: translate('111px, -10px');
+    transform: translate(11px, -400px);
+    /* Sem aspas agora */
 }
