@@ -2,4 +2,6 @@
     background-color: #fff;
     height: 900px;
     transform: translate(0px, 115px);
+    background-image: url(../../assets//imgAboutUs//DR.D_candid_shot\ 1.png);
+    background-size: cover;
 }
