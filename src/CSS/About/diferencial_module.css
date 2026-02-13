@@ -11,7 +11,7 @@
 
 .conteudoUnicos {
     display: flex;
-    gap: 50px;
+    gap: 30px;
     font-family: 'Montserrat', sans-serif;
     color: #fff;
 }
