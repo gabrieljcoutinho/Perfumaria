@@ -1,5 +1,6 @@
 .diferencial {
     height: 700px;
+    align-items: baseline;
 }
 
 .tituloOqueNosFazDiferentes {
@@ -16,14 +17,11 @@
     color: #fff;
     padding-left: 13rem;
     padding-top: 1.5rem;
+
 }
 
 .subtituloListaOqueFazUnicosListaItens {
     font-size: 25px;
     font-weight: 400;
     color: #fff;
-}
-
-.paragrafoOqueFazUnidos {
-    align-items: baseline;
 }
