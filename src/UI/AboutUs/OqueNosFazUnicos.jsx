@@ -42,7 +42,9 @@ const OqueNosFazUnicos = (props: Props) => {
             </ul>
 
             <main className="paragrafoComplemento">
-                
+                    <p className="conteudoSecundario">
+                        asdadkasldçk
+                    </p>
             </main>
 
         </div>
