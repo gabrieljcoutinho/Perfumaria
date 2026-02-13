@@ -33,7 +33,7 @@ const OqueNosFazUnicos = (props: Props) => {
                         <h4 className='subtituloListaOqueFazUnicosListaItens'>Personalized service</h4>
                         <p className="paragrafoOqueFazUnidos">
 
-         
+
                         We understand that choosing the perfect scent is a deeply personal experience. Our team of fragrance experts is always ready to assist you in finding a fragrance that complements your personality and style. Whether you're exploring new scents or seeking to rediscover an old favorite, we're here to guide you every step of the way.
 
                         </p>
