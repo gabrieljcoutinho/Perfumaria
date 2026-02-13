@@ -1,5 +1,5 @@
 .diferencial {
-    height: 700px;
+    height: 1000px;
     align-items: baseline;
 }
 
@@ -28,10 +28,12 @@
 
 .paragrafoOqueFazUnidos {
     text-align: left;
-    line-height: 30px;
+    line-height: 35px;
+    font-size: 30px;
 }
 
-p {
+.conteudoSecundario {
     color: #fff;
     font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
 }
