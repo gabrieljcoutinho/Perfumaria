@@ -1,4 +1,5 @@
 import React from 'react'
+import "../../CSS/About/diferencial_module.css";
 
 type Props = {}
 
