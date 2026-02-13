@@ -30,3 +30,8 @@
     text-align: left;
     line-height: 30px;
 }
+
+p {
+    color: #fff;
+    font-family: 'Montserrat', sans-serif;
+}
