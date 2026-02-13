@@ -12,7 +12,7 @@
 
 .conteudoUnicos {
     display: flex;
-    gap: 600px;
+    gap: 500px;
     font-family: 'Montserrat', sans-serif;
     color: #fff;
     padding-left: 13rem;
@@ -31,6 +31,8 @@
     line-height: 35px;
     font-size: 30px;
 }
+
+.paragrafoComplemento {}
 
 .conteudoSecundario {
     color: #fff;
