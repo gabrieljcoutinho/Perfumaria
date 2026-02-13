@@ -10,15 +10,15 @@ const OqueNosFazUnicos = (props: Props) => {
 
             <ul className="conteudoUnicos">
                     <li>
-                        <h4>Locally Inspired</h4>
+                        <h4 className='subtituloListaOqueFazUnicosListaItens'>Locally Inspired</h4>
                     </li>
 
                     <li>
-                        <h4>High-Quality Ingredients</h4>
+                        <h4 className='subtituloListaOqueFazUnicosListaItens'>High-Quality Ingredients</h4>
                     </li>
 
                     <li>
-                        <h4>Personalized service</h4>
+                        <h4 className='subtituloListaOqueFazUnicosListaItens'>Personalized service</h4>
                     </li>
 
             </ul>
