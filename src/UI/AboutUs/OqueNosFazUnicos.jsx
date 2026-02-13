@@ -11,14 +11,17 @@ const OqueNosFazUnicos = (props: Props) => {
             <ul className="conteudoUnicos">
                     <li>
                         <h4 className='subtituloListaOqueFazUnicosListaItens'>Locally Inspired</h4>
+                        <p className="paragrafoOqueFazUnidos"></p>
                     </li>
 
                     <li>
                         <h4 className='subtituloListaOqueFazUnicosListaItens'>High-Quality Ingredients</h4>
+                        <p className="paragrafoOqueFazUnidos"></p>
                     </li>
 
                     <li>
                         <h4 className='subtituloListaOqueFazUnicosListaItens'>Personalized service</h4>
+                        <p className="paragrafoOqueFazUnidos"></p>
                     </li>
 
             </ul>
