@@ -13,9 +13,13 @@ const OqueNosFazUnicos = (props: Props) => {
                         <h4>Locally Inspired</h4>
                     </li>
 
-                    <li></li>
+                    <li>
+                        <h4>High-Quality Ingredients</h4>
+                    </li>
 
-                    <li></li>
+                    <li>
+                        <h4>Personalized service</h4>
+                    </li>
 
             </ul>
 
