@@ -5,7 +5,7 @@ type Props = {}
 
 const OqueNosFazUnicos = (props: Props) => {
   return (
-    <div>OqueNosFazUnicos</div>
+    <div className='diferencial'>OqueNosFazUnicos</div>
   )
 }
 
