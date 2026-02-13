@@ -8,3 +8,10 @@
     font-size: 40px;
     padding-top: 1.5rem;
 }
+
+h1,
+p,
+a,
+ul {
+    color: #fff;
+}
