@@ -9,6 +9,9 @@
     padding-top: 1.5rem;
 }
 
+.conteudoUnicos {
+    display: flex;
+}
 
 h1,
 p,
