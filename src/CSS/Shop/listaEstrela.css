@@ -1,3 +1,7 @@
 .estrela {
     display: flex;
 }
+
+.imgEstrelaListaClassificacao {
+    width: 900px;
+}
