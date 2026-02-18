@@ -2,6 +2,14 @@
     height: 900px;
 }
 
+.subtituloConteudoTexto {
+    color: #fff;
+    font-family: 'Montserrat';
+    font-size: 30px;
+    padding-right: 100rem;
+}
+
+
 .primeiroParagrafo {
     color: #fff;
     font-family: 'Montserrat';
@@ -11,10 +19,6 @@
     line-height: 50px;
 }
 
-.subtituloConteudoTexto {
-    color: #fff;
-    font-family: 'Montserrat';
-    font-size: 30px;
-    padding-right: 100rem;
-}
+.segundoparagrafo{
 
+}
