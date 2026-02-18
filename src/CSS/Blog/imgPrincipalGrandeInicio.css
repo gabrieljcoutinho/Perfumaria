@@ -1,8 +1,8 @@
 .conteudoImgPrincipalBlog {
     background-color: #fff;
     height: 700px;
-    background-image: url(../../assets//imgBlog//imgBlog.png);
-    background-size: cover;
+    background-image: url("../../assets/imgBlog/imgBlog.png");
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
 }
