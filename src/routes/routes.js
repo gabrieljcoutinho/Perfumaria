@@ -4,7 +4,7 @@ import Header from '../components/Header.jsx';
 import Home from '../pages/Home.jsx';
 import Shop from '../pages/Shop.jsx';
 import AboutUs from '../pages/AboutUs.jsx';
-import Blog from '../pages/Blog.tsx';
+import Blog from '../pages/Blog.jsx';
 
 const AppRoutes = () => {
   // Isso verifica se você está no computador (localhost) ou no GitHub
