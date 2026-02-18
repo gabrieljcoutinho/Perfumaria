@@ -1,11 +1,13 @@
 import React from 'react'
 import Titulo from '../UI/Blog/Titulo.jsx'
+import TituloPrincipal from '../UI/Blog/TituTituloPrincipallo.jsx'
 
 const ConteudoTodoPrincipal = () => {
   return (
     <div>
         <br /><br /><br /><br />
       <Titulo />
+      <TituloPrincipal />
     </div>
   )
 }
