@@ -1,4 +1,5 @@
 import React from 'react'
+import "../../CSS/Blog/marcacaoDePagina.css"
 
 type Props = {}
 
