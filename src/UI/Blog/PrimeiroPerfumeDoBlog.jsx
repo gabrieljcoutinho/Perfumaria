@@ -10,11 +10,11 @@ const PrimeiroPerfumeDoBlog = () => {
     <div className='primeriPerfumeBlog'>
 
             <div className="img">
-            <img src={img1} alt="" />
+            <img src={img1} alt="" className='imgPrimeiraBlog' />
             </div>
 
             <div className="conteudo">
-                
+
             </div>
 
     </div>
