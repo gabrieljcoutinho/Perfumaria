@@ -17,6 +17,7 @@ import img11 from "../../assets/imgShop/perfumeLoja11.png"
 import img12 from "../../assets/imgShop/perfumeLoja12.png"
 
 import star from "../../assets/imgShop/star.png"
+import star2 from "../../assets/imgShop/estrelaTransparente.png"
 
 
 const ListaDeProdutos = () => {
@@ -35,7 +36,7 @@ const ListaDeProdutos = () => {
         <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
         <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
         <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
-        <li className="listaEstrelas"><img src={star} alt="" className='imgEstrelaListaClassificacao' /></li>
+        <li className="listaEstrelas"><img src={star2} alt="" className='imgEstrelaListaClassificacao' /></li>
       </ul>
 
             <p className="preco">R$: 220,00</p>
