@@ -1,9 +1,8 @@
 import React from 'react'
 import "../../CSS/Blog/marcacaoDePagina.css"
 
-type Props = {}
 
-const MarcacaoDePagina = (props: Props) => {
+const MarcacaoDePagina = () => {
   return (
     <div>
 
