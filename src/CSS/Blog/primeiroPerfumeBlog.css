@@ -1,7 +1,7 @@
 .primeriPerfumeBlog {
     color: #fff;
     font-family: 'Montserrat';
-    background-color: #f5f5dc;
+    background-color: #000;
     height: 1000px;
 }
 
@@ -11,13 +11,13 @@
     padding-right: 100rem;
 }
 
-h3{
-    color: #000;
+h3 {
+    color: #fff;
 }
 
 .conteudo {
     transform: translate(000px, -830px);
-    color: #000;
+    color: #fff;
     padding-left: 50rem;
 }
 
@@ -28,6 +28,6 @@ h3{
     line-height: 45px;
 }
 
-.segundoSubtitulo{
+.segundoSubtitulo {
     transform: translate(-300px, -0);
 }
