@@ -3,9 +3,8 @@ import "../../CSS/Shop/perfumeDeOuro.css"
 
 import imgDeOuro from "../../assets/imgShop/perfumeDeOuro.png"
 
-type Props = {}
 
-const PerfumeDeOuro = (props: Props) => {
+const PerfumeDeOuro = () => {
   return (
     <div className='mainPerfumeDeOuro'>
 
