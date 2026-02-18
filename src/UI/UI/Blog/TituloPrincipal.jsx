@@ -6,7 +6,7 @@ import "../../../CSS/Blog/tituloPrincipal.css"
 const TituloPrincipal= () => {
   return (
     <div>
-        <h3>TituTituloPrincipal.jsx</h3>
+        <h3>The Art of Curating a luxuary Perfume Collection: A Symphony of Scents snd Storiestitulo</h3>
     </div>
   )
 }
