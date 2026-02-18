@@ -18,4 +18,5 @@ h3 {
 .conteudo {
     transform: translate(000px, -830px);
     color: #000;
+    padding-left: 10rem;
 }
