@@ -1,6 +1,7 @@
 import React from 'react'
 import "../../CSS/Shop/listaProdutos.css"
 import "../../CSS/Shop/flexBox.css"
+import "../../CSS/Shop/listaEstrela.css"
 
 import img1 from "../../assets/imgShop/perfumeLoja1.png"
 import img2 from "../../assets/imgShop/perfumeLoja2.png"
@@ -27,7 +28,18 @@ const ListaDeProdutos = () => {
         <div className="divConteudo">
           <img src={img1} alt="Perfume 1"  className='img'/>
             <h3 className='tituloDosPerfumesLista'>Luxurius Elixir Rough</h3>
+
+            <ul className="estrela">
+        <li className="listaEstrelas"><img src={star} alt="" /></li>
+        <li className="listaEstrelas"><img src={star} alt="" /></li>
+        <li className="listaEstrelas"><img src={star} alt="" /></li>
+        <li className="listaEstrelas"><img src={star} alt="" /></li>
+        <li className="listaEstrelas"><img src={star} alt="" /></li>
+        <li className="listaEstrelas"><img src={star} alt="" /></li>
+      </ul>
+
             <p className="preco">R$: 220,00</p>
+
         </div>
 
         <div className="divConteudo">
