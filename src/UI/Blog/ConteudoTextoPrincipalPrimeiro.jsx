@@ -10,6 +10,8 @@ const ConteudoTextoPrincipalPrimeiro = () => {
 
             </p>
 
+            <h4>The Perfume Collection: A Personal Overture</h4>
+
             <p className="segundoparagrafo">
 
                 </p>
