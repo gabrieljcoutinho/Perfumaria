@@ -4,7 +4,7 @@ import  "../../../CSS/Blog/titulo.css"
 const Titulo = () => {
   return (
     <div>
-      <h3>wedjhalksjdhkjl</h3>
+      <h3 className='tituloBlog'>wedjhalksjdhkjl</h3>
     </div>
   )
 }
