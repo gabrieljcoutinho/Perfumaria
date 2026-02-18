@@ -15,6 +15,8 @@ const PrimeiroPerfumeDoBlog = () => {
 
             <div className="conteudo">
                     <h3>The Overture: Discovering Your Signature Scent</h3>
+
+                    <p></p>
             </div>
 
     </div>
