@@ -20,5 +20,10 @@
 }
 
 .segundoparagrafo{
-
+    color: #fff;
+    font-family: 'Montserrat';
+    text-align: left;
+    padding-left: 16.9rem;
+    font-size: 30px;
+    line-height: 50px;
 }
