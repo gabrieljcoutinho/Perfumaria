@@ -11,6 +11,10 @@
     padding-right: 100rem;
 }
 
+h3{
+    color: #000;
+}
+
 .conteudo {
     transform: translateY(-500px);
     color: #000;
