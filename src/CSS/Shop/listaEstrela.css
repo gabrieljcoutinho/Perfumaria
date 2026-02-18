@@ -1,5 +1,6 @@
 .estrela {
     display: flex;
+    gap: 20px;
 }
 
 .imgEstrelaListaClassificacao {
