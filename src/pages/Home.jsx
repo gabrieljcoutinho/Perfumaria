@@ -10,7 +10,7 @@ import "../CSS/Home/mainSecaoPromocao.css"
 import "../CSS/Home/mainPerfumesMaisRecentes.css"
 
 
-import ConteudoInicial from "../UI/Home/ConteudoInicial"
+// import ConteudoInicial from "../UI/Home/ConteudoInicial"
 import BoasVindas from "../UI/Home/BoasVindas"
 import NossosValores from "../UI/Home/NossosValores"
 import AmostraProdutos from "../UI/Home/AmostraProdutos"
@@ -23,7 +23,7 @@ import Footer from "../components/Footer"
 const Home = () => {
   return (
     <div className='section'>
-{/* 
+{/*
           <ConteudoInicial /> */}
 
           <BoasVindas />
