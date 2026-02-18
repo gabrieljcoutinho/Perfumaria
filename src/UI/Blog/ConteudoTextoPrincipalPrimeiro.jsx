@@ -13,7 +13,7 @@ const ConteudoTextoPrincipalPrimeiro = () => {
                         olfactory masterpieces. Just as a maestro conducts an orchestra, we invite you to become the conductor of your very own perfume symphony.
             </p>
 
-            <h4>The Perfume Collection: A Personal Overture</h4>
+            <h4 className='subtituloConteudoTexto'>The Perfume Collection: A Personal Overture</h4>
 
             <p className="segundoparagrafo">
 
