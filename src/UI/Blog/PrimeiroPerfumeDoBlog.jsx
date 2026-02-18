@@ -9,7 +9,13 @@ const PrimeiroPerfumeDoBlog = () => {
   return (
     <div className='primeriPerfumeBlog'>
 
+            <div className="img">
             <img src={img1} alt="" />
+            </div>
+
+            <div className="conteudo">
+                
+            </div>
 
     </div>
   )
