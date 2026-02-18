@@ -27,3 +27,7 @@ h3{
     font-size: 30px;
     line-height: 45px;
 }
+
+.segundoSubtitulo{
+    transform: translate(-300px, -0);
+}
