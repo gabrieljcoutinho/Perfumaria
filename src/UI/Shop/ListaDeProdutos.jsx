@@ -15,6 +15,8 @@ import img10 from "../../assets/imgShop/perfumeLoja10.png"
 import img11 from "../../assets/imgShop/perfumeLoja11.png"
 import img12 from "../../assets/imgShop/perfumeLoja12.png"
 
+import star from "../../assets/imgShop/star.png"
+
 
 const ListaDeProdutos = () => {
   return (
