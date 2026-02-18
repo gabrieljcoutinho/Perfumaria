@@ -4,7 +4,7 @@ import "../../CSS/Blog/imgPrincipalGrandeInicio.css"
 
 const ConteudoImgPrincipalBlog = () => {
   return (
-    <div>ConteudoImgPrincipalBlog</div>
+    <div className='conteudoImgPrincipalBlog'>ConteudoImgPrincipalBlog</div>
   )
 }
 
