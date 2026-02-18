@@ -1,9 +1,13 @@
 .conteudoImgPrincipalBlog {
+
+    padding: 20px;
+}
+
+.fundoImgPrincipal{
     background-color: #fff;
     height: 1000px;
     background-image: url("../../assets/imgBlog/imgBlog.png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position: center;
-    padding: 20px;
 }
