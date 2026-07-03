@@ -7,13 +7,13 @@
 # Inicialização
 > npm start
 
-# 🌟 Loja de Perfumes Luxuosos
+#  Loja de Perfumes Luxuosos
 
 Bem-vindo à **Loja de Perfumes Luxuosos**, onde cada fragrância é uma experiência única e cada frasco é uma obra de arte. Nossa coleção é feita para quem aprecia sofisticação, exclusividade e luxo.
 
 ---
 
-## 🏠 Home
+##  Home
 
 Na **Home**, o visitante é recebido com uma entrada elegante:
 
@@ -23,7 +23,7 @@ Um perfume simples é exibido, simbolizando a essência da nossa marca: sofistic
 
 ---
 
-## ✨ Main / Boas-Vindas
+##  Main / Boas-Vindas
 
 A seção principal dá as boas-vindas e apresenta nossa filosofia:
 
@@ -31,7 +31,7 @@ A seção principal dá as boas-vindas e apresenta nossa filosofia:
 
 ---
 
-## 💎 Nossos Valores
+##  Nossos Valores
 
 - **Exclusividade:** Cada perfume é único e cuidadosamente elaborado.
 - **Sofisticação:** Frascos luxuosos que encantam os sentidos.
@@ -39,7 +39,7 @@ A seção principal dá as boas-vindas e apresenta nossa filosofia:
 
 ---
 
-## 🌸 Perfumes Principais
+##  Perfumes Principais
 
 Uma breve demonstração dos quatro perfumes mais desejados:
 
@@ -52,7 +52,7 @@ Uma breve demonstração dos quatro perfumes mais desejados:
 
 ---
 
-## 🎨 Nossas Coleções
+##  Nossas Coleções
 
 Apresentamos **7 perfumes** da nossa coleção, apenas para mostrar a diversidade e o luxo de nossos frascos:
 
@@ -68,13 +68,13 @@ Apresentamos **7 perfumes** da nossa coleção, apenas para mostrar a diversidad
 
 ---
 
-## 🔥 Promoção Especial
+##  Promoção Especial
 
 Perfume em destaque: **Golden Serius Black** – edição limitada com aroma marcante e sofisticado.
 
 ---
 
-## 🛒 Loja
+##  Loja
 
 Na tela da **Loja**, você encontra vários perfumes para compra, incluindo seções especiais:
 
@@ -109,7 +109,7 @@ Exibimos os perfumes como se estivessem em uma adega de luxo — não de vinhos,
 
 ---
 
-## 🔗 Links Úteis
+##  Links Úteis
 
 - [Home](#)
 - [Perfumes Principais](#)
@@ -120,7 +120,7 @@ Exibimos os perfumes como se estivessem em uma adega de luxo — não de vinhos,
 
 ---
 
-## 🎨 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 - HTML
 - CSS
@@ -128,7 +128,7 @@ Exibimos os perfumes como se estivessem em uma adega de luxo — não de vinhos,
 
 ---
 
-💎 Experimente o luxo, sinta a exclusividade e descubra o mundo das fragrâncias finas! 🌟
+ Experimente o luxo, sinta a exclusividade e descubra o mundo das fragrâncias finas! 🌟
 
 
 <img width="1889" height="899" alt="Image" src="https://github.com/user-attachments/assets/653d2bb5-5d9c-45cf-8d25-b5d5e569c52c" />
